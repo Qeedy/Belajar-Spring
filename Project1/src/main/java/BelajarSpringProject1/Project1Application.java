@@ -1,4 +1,4 @@
-package BelajarSpringProject1.Project1;
+package BelajarSpringProject1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
